@@ -8,7 +8,7 @@ spring:
     mongodb:
       # For local dev: mongodb://localhost:27017/portfolio_cms
       # For Atlas (cloud): set MONGODB_URI env var instead
-      uri: ${MONGODB_URI:mongodb://localhost:27017/portfolio_cms}
+      uri: ${MONGODB_URI:}
   servlet:
     multipart:
       max-file-size: 5MB
