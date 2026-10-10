@@ -34,5 +34,5 @@ platform's dashboard in production) — never commit real secrets.
 | POST | `/contact` | public |
 
 ## Deployment
-Deployed on [Render/Railway — fill in once live]. See `ENV_VARS.md` for
+Deployed on [Render/Railway — https://portfolio-cms-backend-production-9613.up.railway.app/api/health]. See `ENV_VARS.md` for
 production configuration.
